@@ -9,3 +9,4 @@ def hello():
 if __name__ == "__main__":
     app.run("0.0.0.0")
 print("Hello, World!")
+ return "Hello! This is my project. "
